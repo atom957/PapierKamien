@@ -1,0 +1,7 @@
+C:\Users\User\git\PapierKamieńNożyce\PapierKamienNozyce\PapierKamienNozyce\bin\Debug\PapierKamienNozyce.exe.config
+C:\Users\User\git\PapierKamieńNożyce\PapierKamienNozyce\PapierKamienNozyce\bin\Debug\PapierKamienNozyce.exe
+C:\Users\User\git\PapierKamieńNożyce\PapierKamienNozyce\PapierKamienNozyce\bin\Debug\PapierKamienNozyce.pdb
+C:\Users\User\git\PapierKamieńNożyce\PapierKamienNozyce\PapierKamienNozyce\obj\Debug\PapierKamienNozyce.csproj.AssemblyReference.cache
+C:\Users\User\git\PapierKamieńNożyce\PapierKamienNozyce\PapierKamienNozyce\obj\Debug\PapierKamienNozyce.csproj.CoreCompileInputs.cache
+C:\Users\User\git\PapierKamieńNożyce\PapierKamienNozyce\PapierKamienNozyce\obj\Debug\PapierKamienNozyce.exe
+C:\Users\User\git\PapierKamieńNożyce\PapierKamienNozyce\PapierKamienNozyce\obj\Debug\PapierKamienNozyce.pdb
